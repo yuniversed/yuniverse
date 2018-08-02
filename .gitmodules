@@ -1,0 +1,10 @@
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = https://github.com/themefisher/navigator-hugo.git
+[submodule "themes/hugo-freelancer-theme"]
+	path = themes/hugo-freelancer-theme
+	url = https://github.com/digitalcraftsman/hugo-freelancer-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:yuniversed/yuniversed.github.io
+	branch = master
