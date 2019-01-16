@@ -6,6 +6,8 @@ author: darren
 ---
 Too many years of unhealthy eating, free food at work and not monitoring my intake has had me gain nearly 40 lbs from my lows around 160lbs around 2012.  Time to get back on the train.
 
+<!--more-->
+
 * Keto really helps keep hunger away
 * Month end re-evaluation of calorie goals
 
