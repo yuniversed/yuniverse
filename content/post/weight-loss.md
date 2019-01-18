@@ -8,10 +8,12 @@ Too many years of unhealthy eating, free food at work and not monitoring my inta
 
 <!--more-->
 
+{{< gsheet >}}
+
 * Keto really helps keep hunger away
 * Month end re-evaluation of calorie goals
 
-{{< gsheet >}}
+{{< gsheet-chart >}}
 
 * Red: 1% weight loss per week
 * Green:  0.5% weight loss per week
