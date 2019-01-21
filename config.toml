@@ -9,6 +9,7 @@ paginate = 5
   subtitle = "Welcome to my home"
   # "light" or "dark"
   defaultTheme = "dark"
+  GATag = "UA-132882214-1"
 
 [params.logo]
   logoText = "the yuniverse"

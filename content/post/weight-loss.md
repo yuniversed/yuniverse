@@ -4,8 +4,7 @@ date: 2019-01-09T16:02:03-07:00
 draft: false
 author: darren
 ---
-Too many years of unhealthy eating, free food at work and not monitoring my intake has had me gain nearly 40 lbs from my lows around 160lbs around 2012.  Time to get back on the train.
-
+Nearly a decade ago, I started on a weight loss journey where I managed to lose over 70 lbs over a few years. I've let my weight creep up again over the last 7 or 8 years now to the point where I need to do something about it.  Let's get to it!
 <!--more-->
 
 {{< gsheet >}}
