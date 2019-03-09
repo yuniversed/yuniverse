@@ -9,11 +9,7 @@ Nearly a decade ago, I started on a weight loss journey where I managed to lose 
 
 {{< gsheet >}}
 
-* Keto really helps keep hunger away
-* Month end re-evaluation of calorie goals
+* Eating low carb (keto) helps me manage hunger pangs.  I find it much easier to reach lower calorie targets when carb consumption is low.
+* Intermittent fasting has also been a help to control the amount of calories I am taking in.  Currently 16:8 fasting, and not really having any trouble doing so.
 
 {{< gsheet-chart >}}
-
-* Red: 1% weight loss per week
-* Green:  0.5% weight loss per week
-* Yellow: 'actual value' with 8 day moving average

@@ -1,3 +1,31 @@
-<center>
+<!--<center>
 	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRM1CMw-y_3M9Q_fZVtI03Ysatx2wa2OJld_YdHWy9Mhaxjzy9gUZuwNBlBmuSL6TXq-Me9vGh3FDhl/pubhtml?gid=268391058&amp;single=true&amp;widget=false&amp;headers=false&amp;rm=minimal&amp;chrome=false" width="440" height="188" seamless frameborder="0" allowtransparency="true" style="background: #000000;"></iframe>
-</center>
+</center>-->
+
+<div id="stats" style="margin-left:auto;margin-right:auto;">
+
+</div>
+
+
+<script type="text/javascript">
+function reqListener () {
+	var stats = document.getElementById('stats');
+	var json = JSON.parse(this.responseText);
+
+	var details = "";
+
+	for (var index in json['feed']['entry']) {
+		entry = json['feed']['entry'][index]
+		details +=  "<TR><TD><STRONG>" + entry['gsx$details']['$t'] + '</STRONG></TD><TD>' + entry['gsx$value']['$t'] + "</TD></TR>";
+	}
+
+	stats.innerHTML = "<center><table>" + details + "</table></center>";
+
+}
+
+var oReq = new XMLHttpRequest();
+oReq.addEventListener("load", reqListener);
+oReq.open("GET", "https://spreadsheets.google.com/feeds/list/18hLmd6gvFBZafkVkOmR91HDeSkLfCx0BoKp4h0mAlrY/3/public/values?alt=json");
+oReq.send();
+
+</script>
