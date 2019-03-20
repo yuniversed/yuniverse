@@ -4,12 +4,13 @@ date: 2019-01-09T16:02:03-07:00
 draft: false
 author: darren
 ---
-Nearly a decade ago, I started on a weight loss journey where I managed to lose over 70 lbs over a few years. I've let my weight creep up again over the last 7 or 8 years now to the point where I need to do something about it.  Let's get to it!
+Nearly a decade ago, I lost over 70 lbs through a combination of exercise, eating moderation and keto. In the 7 or 8 years since hitting personal lows around 160lbs, injury and life caught up to me.  I've not seriously focused on weight loss for quite a few years now -- but that changes this year!
+
 <!--more-->
 
 {{< gsheet >}}
 
 * Eating low carb (keto) helps me manage hunger pangs.  I find it much easier to reach lower calorie targets when carb consumption is low.
-* Intermittent fasting has also been a help to control the amount of calories I am taking in.  Currently 16:8 fasting, and not really having any trouble doing so.
+* Intermittent fasting helps to control the amount of calories I am taking in.  16:8 fasting is probably the most common at this point - essentially skipping breakfast and ending dinner around 8pm.
 
 {{< gsheet-chart >}}
