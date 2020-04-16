@@ -7,7 +7,7 @@
 		seamless 
 		frameborder="0" 
 		scrolling="no" 
-		src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRM1CMw-y_3M9Q_fZVtI03Ysatx2wa2OJld_YdHWy9Mhaxjzy9gUZuwNBlBmuSL6TXq-Me9vGh3FDhl/pubchart?oid={{ .Get "oid" }}&amp;format=interactive" 
+		src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRM1CMw-y_3M9Q_fZVtI03Ysatx2wa2OJld_YdHWy9Mhaxjzy9gUZuwNBlBmuSL6TXq-Me9vGh3FDhl/pubchart?oid={{ .Get "oid" }}&amp;format={{ .Get "format" | default "interactive" }}" 
 		style="float:center;display:block;">
 	</iframe>
 </div>

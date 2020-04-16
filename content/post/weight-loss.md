@@ -17,4 +17,4 @@ Nearly a decade ago, I lost over 70 lbs through a combination of exercise, eatin
 
 Long Term Projections
 
-{{< gsheet-chart oid="2116176959" width="1700" left="-370px">}}
+{{< gsheet-chart oid="2116176959" width="1700" left="-370px" format="image">}}
